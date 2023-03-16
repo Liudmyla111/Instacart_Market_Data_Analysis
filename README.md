@@ -7,7 +7,7 @@ The goal of this project is to analyze the data and provide insights into custom
 ### Conclusions from data analysis:
 
 The average basket size is 10.59 products per order, which suggests that customers are generally ordering a large number of items at once.
-The repeat customer rate is 100.9%, which indicates that Instacart has a relatively high level of customer loyalty.
+The repeat customer rate is 100.0%, which indicates that Instacart has a relatively high level of customer loyalty.
 The average time between orders is 19.01 days, which suggests that customers are using the Instacart service on a regular basis.
 The most popular aisle by department varies widely, with fresh fruits and vegetables being the most popular aisle in the produce department, 
 and milk being the most popular aisle in the dairy department.
